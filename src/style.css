@@ -4,3 +4,22 @@
  padding: 10px;
  line-height: 12em;   
 }
+body {
+    background-color: #FAF9F9;
+}
+
+.jumbotron {
+    margin-top: 5em;
+    background-color: #FAF9F9;
+    border: solid 2px #555B6E;
+    color: #555B6E;
+}
+
+.navbar {
+    border: solid 2px #555B6E;
+    background-color: #FAF9F9;
+}
+
+.hidden {
+    display: none;
+}

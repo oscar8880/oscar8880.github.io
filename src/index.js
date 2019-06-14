@@ -1,9 +1,19 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import './style.css';
+import Navigation from "./components/Navigation/Navigation"
+
 
 const Index = () => {
-  return <div className="helloworld">Hello React,Webpack4,Babel7!</div>;
+  return <div className="helloworld">Hello Oscar</div>;
 };
 
-ReactDOM.render(<Index />, document.querySelector("#root"));
+const App = () => {
+    return (
+        <div>
+            <Navigation/>
+        </div>
+    )
+};
+
+ReactDOM.render(<App />, document.querySelector("#root"));
