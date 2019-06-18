@@ -1,19 +1,6 @@
-import React from "react";
-import ReactDOM from "react-dom";
-import './style.css';
-import Navigation from "./components/Navigation/Navigation"
+import React from 'react';
+import ReactDOM from 'react-dom';
+import './index.css';
+import App from './App';
 
-
-const Index = () => {
-  return <div className="helloworld">Hello Oscar</div>;
-};
-
-const App = () => {
-    return (
-        <div>
-            <Navigation/>
-        </div>
-    )
-};
-
-ReactDOM.render(<App />, document.querySelector("#root"));
+ReactDOM.render(<App />, document.getElementById('root'));
