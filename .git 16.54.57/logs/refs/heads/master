@@ -1,7 +1,0 @@
-0000000000000000000000000000000000000000 ade3029c4b0e5cd2343ba830f873e01aebae6b7a oscar8880 <oscar@zealley.com> 1560505649 +0100	clone: from https://github.com/oscar8880/site-project.git
-ade3029c4b0e5cd2343ba830f873e01aebae6b7a e64e60569c8d6244abe1d77267b89ad6cf8a2d25 oscar8880 <oscar@zealley.com> 1560505938 +0100	commit: Initial upload
-e64e60569c8d6244abe1d77267b89ad6cf8a2d25 666b37662bc6fda0f11fb1c57abbcf5c8fa7ab7f oscar8880 <oscar@zealley.com> 1560507335 +0100	pull: Fast-forward
-666b37662bc6fda0f11fb1c57abbcf5c8fa7ab7f b1bc619d890540c05cbf0689cd53df8025d80a01 oscar8880 <oscar@zealley.com> 1560510804 +0100	commit: testing html change
-b1bc619d890540c05cbf0689cd53df8025d80a01 1a50d9673a702e1eab6eb02bd7ba03f67c472ab2 oscar8880 <oscar@zealley.com> 1560513345 +0100	commit: Installed react-bootstrap
-1a50d9673a702e1eab6eb02bd7ba03f67c472ab2 bfcdbeb3fa263effd9f9330b6f1eddacd6f719dc oscar8880 <oscar@zealley.com> 1560522089 +0100	commit: Stylesheet corrected
-bfcdbeb3fa263effd9f9330b6f1eddacd6f719dc 0f04b15855dc5693702d0504e320482e4fcc8e85 oscar8880 <oscar@zealley.com> 1560525265 +0100	commit: Slight formatting changes
