@@ -31,18 +31,4 @@
     transform: rotate(360deg);
   }
 }
-body {
-    background-color: #FAF9F9;
-}
-
-.jumbotron {
-    margin-top: 5em;
-    background-color: #FAF9F9;
-    border: solid 2px #7871AA;
-    color: #555B6E;
-}
-
-.hidden {
-    display: none;
-}
 
