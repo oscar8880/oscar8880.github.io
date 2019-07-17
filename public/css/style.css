@@ -120,7 +120,7 @@ figure {
       text-align: center;
       color: #000;
       padding-right: .3em;
-      font-family: 'Lustria', serif;
+      font-family: 'Lato', Arial, sans-serif;
     }
   #colorlib-aside #colorlib-main-menu {
     display: block;
@@ -607,7 +607,7 @@ body.offcanvas {
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label h2 {
   font-size: 20px;
-  font-family: "Quicksand", Arial, sans-serif;
+  font-family: "Lato", Arial, sans-serif;
   font-weight: 500; }
 
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label h2 a {
