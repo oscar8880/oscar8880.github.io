@@ -18,7 +18,7 @@ export default class Projects extends Component {
                                                     <i className="icon-chart-line"></i>
                                                 </div>
                                                 <div className="timeline-label">
-                                                    <h2><a href="https://github.com/oscar8880/Multiple-Linear-Regression">Multiple Linear Regression</a>
+                                                    <h2><a href="https://github.com/oscar8880/Multiple-Linear-Regression" target ="_blank">Multiple Linear Regression</a>
                                                     <br></br>
                                                     <span>A tool for econometric analysis, written in C</span></h2>
                                                     <p><strong>Background</strong>: Multiple linear regression is a statistical technique for analysing the linear relationships between a 'dependent' variable and several 'explanatory' variables. For instance, in the field of economics MLR models may be used to help understand relationships between economic growth, interest rates and unemployment.</p>
