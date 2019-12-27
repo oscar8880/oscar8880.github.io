@@ -10,12 +10,12 @@ export default class Sidebar extends Component {
                             <div className="text-center">
                                 <div className="author-img" style={{backgroundImage: 'url(images/oscar.jpg)'}} />
                                 <h1 id="colorlib-logo"><a href="index.html">Oscar Zealley</a></h1>
-                                <span className="email"><i className="icon-mail"></i> oscar@-----.co.uk</span>
+                                
                             </div>
                             <nav id="colorlib-main-menu" role="navigation" className="navbar">
                                 <div id="navbar" className="collapse">
                                     <ul>
-                                        <li className="active"><a href="#home" data-nav-section="home">Introduction</a></li>
+                                        <li className="active"><a href="#home" data-nav-section="home">Home</a></li>
                                         <li><a href="#about" data-nav-section="about">About</a></li>
                                         <li><a href="projects" data-nav-section="projects">Projects</a></li>
                                         {/*<li><a href="#" data-nav-section="blog">Blog</a></li>
@@ -33,7 +33,6 @@ export default class Sidebar extends Component {
                             </nav>
                             <div className="colorlib-footer">
                                 <p><small>
-                                Something coming soon !!
                                 </small></p>
                             </div>
                         </aside>
